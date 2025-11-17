@@ -14,7 +14,7 @@
 
 ---
 
-## 🎨 Key Capabilities Observed
+## 🎨 Bot features:
 
 - 🖥️ **Remote screen control (VNC-style behavior)**
 - 🔐 **Credential theft & lockscreen harvesting**
@@ -28,32 +28,20 @@
 
 ---
 
-## 📱 Target Environment
+## 📱 Supported devices and Android versions:
 
 - ✔️ Android 10–16  
 - ✔️ Wide device compatibility  
-- ⚠️ Occasional instability on MIUI devices  
-
----
-
-## 🔍 Research Purpose
-
-This repository helps:
-
-- 🛡️ SOC analysts  
-- 🔬 Malware researchers  
-- 📚 Cybersecurity students  
-- 💼 Mobile security engineers  
-
-by providing intelligence on how Accessibility abuse is being weaponized.
+- ⚠️ Works perfectly on all devices; the only exception is MIUI, where on VERY rare occasions there may be minor bugs that don’t interfere with the bot’s core functionality 
 
 ---
 
 ## 📅 Development Timeline (Observed)
 
-- Beta-phase samples analyzed  
+- Currently the bot is in beta so every participant can try our product. Test time — 6 hours from the moment of getting access to the panel.
 - Stress & stability testing performed  
 - Threat actor mentions full release date **10.11.2025**
+- After that date anyone will be able to purchase access to the bot, priced at $800 for the first 3 hands, $1000 for the next 2 hands, and $1250 for the rest.
 
 ---
 
@@ -66,5 +54,5 @@ It contains **no harmful code**, only analysis and documentation.
 
 ## 📬 Contact & Contributions
 
-Submit Issues or PRs to collaborate on mobile threat intelligence.
+The functionality described above is far from all we can offer a potential renter; we have a list of add-ons that make interacting with the bot and users much more effective and greatly expand the arsenal. More detailed info is available by contacting the addresses below.
 
