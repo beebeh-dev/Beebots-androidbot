@@ -47,9 +47,8 @@
 
 ## ⚠️ Ethical Notice
 
-This repository is **not** a malware distribution point.  
-It contains **no harmful code**, only analysis and documentation.
-
+- Before going public we ran a huge number of tests, including on high traffic loads; through trial and error we fixed all the bugs that appeared during operation.
+- The main requirement for operation is the Accessibility permission, which allows full control over the victim’s device.
 ---
 
 ## 📬 Contact & Contributions
