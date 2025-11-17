@@ -40,7 +40,7 @@
 
 - Currently the bot is in beta so every participant can try our product. Test time — 6 hours from the moment of getting access to the panel.
 - Stress & stability testing performed  
-- Threat actor mentions full release date **10.11.2025**
+- Full release of the bot is scheduled for **10.11.2025**
 - After that date anyone will be able to purchase access to the bot, priced at $800 for the first 3 hands, $1000 for the next 2 hands, and $1250 for the rest.
 
 ---
