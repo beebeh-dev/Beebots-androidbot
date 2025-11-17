@@ -1,4 +1,4 @@
-# 🐝 BeeBot — Android Accessibility Threat Research
+# 🐝 BeeBot — Android Accessibility Threat
 > **For cybersecurity research & defensive analysis only**
 
 ![Status](https://img.shields.io/badge/Threat%20Research-Active-blueviolet)
@@ -10,8 +10,7 @@
 
 ## 🌈 Overview
 
-**BeeBot** is an emerging Android Accessibility-abuse threat designed to achieve full device manipulation through elevated permissions.  
-This repository contains **safe, non-malicious documentation**, behavioral analysis, and defensive insights.
+**BeeBot** is an emerging Android Accessibility-abuse threat designed to achieve full device manipulation through elevated permissions. 
 
 ---
 
