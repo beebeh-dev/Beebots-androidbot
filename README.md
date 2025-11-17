@@ -54,4 +54,5 @@
 ## 📬 Contact & Contributions
 
 The functionality described above is far from all we can offer a potential renter; we have a list of add-ons that make interacting with the bot and users much more effective and greatly expand the arsenal. More detailed info is available by contacting the addresses below.
+- Telegram @androbotlod
 
